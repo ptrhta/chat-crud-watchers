@@ -1,0 +1,27 @@
+.notes__top {
+    align-items: center;
+}
+
+.notes__list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notes__form {
+    position: relative;
+    width: fit-content;
+    margin-top: 32px;
+}
+
+.notes__textarea {
+    position: relative;
+    padding: 32px;
+    width: 234px;
+    box-sizing: border-box;
+    color: blue;
+    border: 1px solid blue;
+}
+
+.notes__textarea::placeholder {
+    color: black;
+}

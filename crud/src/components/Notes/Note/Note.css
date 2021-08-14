@@ -1,0 +1,8 @@
+.note {
+    position: relative;
+    padding: 16px;
+    width: 200px;
+    margin: 0 32px 16px 0;
+    border: 1px solid green;
+    word-break: break-word;
+}
