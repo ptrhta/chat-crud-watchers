@@ -4,4 +4,4 @@ CRUD
 
 Мировые часы
 
-![Alt Text](./notes.png)
+![Alt Text](./clock.png)

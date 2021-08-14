@@ -1,6 +1,6 @@
 Мировые часы
 
-![Alt Text](./notes.png)
+![Alt Text](./clock.png)
 
 # Getting Started with Create React App
 
