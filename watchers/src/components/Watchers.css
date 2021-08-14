@@ -1,0 +1,55 @@
+.watchers__input {
+    width: 200px;
+    padding: 16px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-right: 32px;
+    box-shadow: inset 1px 1px 1px var(--greyLight-2), 
+    inset -1px -1px 1px var(--white);
+    background: none;
+    font-family: inherit;
+    color: var(--greyDark);
+    transition: 0.3s;
+  }
+  
+  .watchers__input::placeholder { 
+    color: var(--greyLight-3);
+  }
+  
+  .watchers__input:focus { 
+    outline: none; 
+  }
+  
+  .watchers__add {
+    border: none;
+    font-size: 16x;
+    font-weight: bold;
+    width: fit-content;
+    padding: 16px;
+    border-radius: 10px;
+    justify-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: .3s ease;
+    background: var(--primary);
+    color: white;
+  }
+
+  .watchers__form {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1180px;
+    margin-top: 30px;
+  }
+
+  .watchers__clocks {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1180px;
+    margin-top: 30px;
+    justify-content: space-between;
+  }
